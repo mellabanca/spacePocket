@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     },
     h2: {
         paddingLeft: 30,
-        color: "orange",
+        color: "#FFA500",
         fontSize: 15
     },
     icon: {
